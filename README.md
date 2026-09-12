@@ -40,6 +40,7 @@ Sama seperti mengedit barang, ketik exit untuk keluar dan kembali ke seleksi per
 Jika barang tersebut dipinjam, tidak tersedia atau lagi dipinjam, maka dia bakal kembali lagi
 <img width="522" height="144" alt="{B7D9057A-9C4F-4EA4-9481-AB00A8F9FED5}" src="https://github.com/user-attachments/assets/b5e5f4cd-bde8-40f8-b8e7-01073c674089" />
 
+
 Sama juga untuk mengubah status barang
 <img width="564" height="120" alt="image" src="https://github.com/user-attachments/assets/ad15aeab-0cef-40f9-95e6-c3c89a16011a" />
 
