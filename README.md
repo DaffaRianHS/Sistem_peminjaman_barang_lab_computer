@@ -13,7 +13,7 @@ Program ini adalah sistem peminjaman didalam lab komputer, untuk mempermudah sis
 ## Jika ingin mengedit barang (menambah)
 <img width="970" height="119" alt="{C0B62980-C30B-4F5F-9814-71F2F1C8B94C}" src="https://github.com/user-attachments/assets/c8677136-bf15-487b-a9e3-d86a1735fb86" />
 
-Nanti disini diberi opsi untuk menambah barang lagi, jika tidak ingin menambahkan barang lagi, maka dia bakal balik ke seleksi pertama
+### Nanti disini diberi opsi untuk menambah barang lagi, jika tidak ingin menambahkan barang lagi, maka dia bakal balik ke seleksi pertama
 <img width="604" height="48" alt="{C42AC16E-5232-4A18-A590-46FD2477C207}" src="https://github.com/user-attachments/assets/a911d459-d060-4639-9c74-08364398490d" />
 
 
@@ -29,7 +29,7 @@ Untuk keluar dari menu tersebut, ketik 'exit'
 ### Ngecek apakah dia didalam list barang tersedia atau tidak tersedia, jika dia masuk di list tersedia, maka dia akan masuk ke list tidak tersedia, dan juga sebaliknya
 <img width="621" height="147" alt="{2B39420C-BC85-4C32-8CB8-437E14629191}" src="https://github.com/user-attachments/assets/4d8de204-c6cf-4df7-8c5c-dad97c111120" />
 
-Sama seperti mengedit barang, ketik exit untuk keluar dan kembali ke seleksi pertama
+### Sama seperti mengedit barang, ketik exit untuk keluar dan kembali ke seleksi pertama
 <img width="606" height="87" alt="{DF02BA97-C2F0-4834-95A3-E71CD1302DDA}" src="https://github.com/user-attachments/assets/802ccdee-bc74-47ba-a648-d5711219c86e" />
 
 ## Meminjam barang
