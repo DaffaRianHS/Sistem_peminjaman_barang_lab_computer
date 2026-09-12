@@ -26,8 +26,10 @@ Untuk keluar dari menu tersebut, ketik 'exit'
 ## Jika ingin mengubah status barang
 <img width="733" height="163" alt="{88B03721-5E21-4F95-978B-E3C4E9A7C856}" src="https://github.com/user-attachments/assets/139ff463-c829-453a-b80f-23954fd195bc" />
 
-Ngecek apakah dia didalam list barang tersedia atau tidak tersedia, jika dia masuk di list tersedia, maka dia akan masuk ke list tidak tersedia dan juga sebaliknya
+Ngecek apakah dia didalam list barang tersedia atau tidak tersedia, jika dia masuk di list tersedia, maka dia akan masuk ke list tidak tersedia
 <img width="621" height="147" alt="{2B39420C-BC85-4C32-8CB8-437E14629191}" src="https://github.com/user-attachments/assets/4d8de204-c6cf-4df7-8c5c-dad97c111120" />
+
+dan juga sebaliknya
 
 Sama seperti mengedit barang, ketik exit untuk keluar dan kembali ke seleksi pertama
 <img width="606" height="87" alt="{DF02BA97-C2F0-4834-95A3-E71CD1302DDA}" src="https://github.com/user-attachments/assets/802ccdee-bc74-47ba-a648-d5711219c86e" />
